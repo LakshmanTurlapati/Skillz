@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speak"
+  short_description: "Summarize replies and play them with ElevenLabs"
+  default_prompt: "Use $speak to summarize this response for speech and play it aloud."
